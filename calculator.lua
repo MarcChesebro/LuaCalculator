@@ -1,3 +1,6 @@
+-- Git repo:
+-- https://github.com/MarcChesebro/LuaCalculator.git
+
 total = 0
 
 io.write("total: ")
